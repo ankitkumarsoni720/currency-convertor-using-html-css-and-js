@@ -5,5 +5,6 @@ I build our webpage structural layout using html.
 I design and provide style using css.
 And for calculation and other logical part i use javascript.
 In this project i use two api's ,one for giving country code and currency code of that country and next the second api give the exchange rate from one country  to other.
+I use "https://flagsapi.com/US/flat/64.png" for providing the country's flag based on coutry code.
 
 
